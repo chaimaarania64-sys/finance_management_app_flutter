@@ -1,5 +1,10 @@
-*.iml
+
 .gradle
+.dart_tool/
+.packages
+build/
+.idea/
+*.iml
 /local.properties
 /.idea/caches
 /.idea/libraries
